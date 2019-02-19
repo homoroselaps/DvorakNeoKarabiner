@@ -457,7 +457,10 @@
           },
           "to": [
             {
-              "key_code": "keypad_1"
+              "key_code": "slash",
+              "modifiers": [
+                "left_command"
+              ]
             }
           ],
           "conditions": [
@@ -841,7 +844,7 @@
           },
           "to": [
             {
-              "key_code": "period"
+              "key_code": "left_option"
             }
           ],
           "conditions": [
@@ -941,9 +944,10 @@
           },
           "to": [
             {
-              "key_code": "semicolon",
+              "key_code": "slash",
               "modifiers": [
-                "left_option"
+                "left_shift",
+                "left_command"
               ]
             }
           ],

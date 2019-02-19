@@ -216,7 +216,7 @@
       ]
     },
     {
-      "description": "Neo2 layer 4",
+      "description": "Neo2 layer 4 Custom",
       "manipulators": [
         {
           "type": "basic",
@@ -691,7 +691,7 @@
           },
           "to": [
             {
-              "key_code": "keypad_0"
+              "key_code": "spacebar"
             }
           ],
           "conditions": [

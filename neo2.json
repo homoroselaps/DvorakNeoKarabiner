@@ -532,7 +532,10 @@
           },
           "to": [
             {
-              "key_code": "i"
+              "key_code": "i",
+              "modifiers": [
+                "left_command"
+              ]
             }
           ],
           "conditions": [
@@ -557,7 +560,10 @@
           },
           "to": [
             {
-              "key_code": "period"
+              "key_code": "period",
+              "modifiers": [
+                "left_command"
+              ]
             }
           ],
           "conditions": [
@@ -582,7 +588,10 @@
           },
           "to": [
             {
-              "key_code": "b"
+              "key_code": "b",
+              "modifiers": [
+                "left_command"
+              ]
             }
           ],
           "conditions": [
@@ -857,7 +866,7 @@
           },
           "to": [
             {
-              "key_code": "comma"
+              "key_code": "right_shift"
             }
           ],
           "conditions": [

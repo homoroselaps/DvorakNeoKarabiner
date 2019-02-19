@@ -532,7 +532,7 @@
           },
           "to": [
             {
-              "key_code": "keypad_4"
+              "key_code": "i"
             }
           ],
           "conditions": [
@@ -557,7 +557,7 @@
           },
           "to": [
             {
-              "key_code": "keypad_5"
+              "key_code": "period"
             }
           ],
           "conditions": [
@@ -582,7 +582,7 @@
           },
           "to": [
             {
-              "key_code": "keypad_6"
+              "key_code": "b"
             }
           ],
           "conditions": [
